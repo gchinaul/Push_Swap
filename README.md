@@ -47,7 +47,7 @@ rra
 Résultats des tests
 Voici un exemple de résultats obtenus lors de l’exécution de tests automatisés sur le projet :
 
-![texte alternatif](chemin/vers/image.png)
+![texte alternatif](chemin/vers/image1.png)
 
 ## Auteur
 
