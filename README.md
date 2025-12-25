@@ -1,4 +1,4 @@
-# Push Swap
+# Push Swap (version mise a la norminette 42 le 12/09/25)
 
 ## Description
 
